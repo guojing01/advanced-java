@@ -45,7 +45,7 @@
 - [如何设计一个高并发系统？](/docs/high-concurrency/high-concurrency-design.md)
 
 ## 分布式系统
-### [面试连环炮](/docs/distributed-system/distributed-system-interview.md)
+### [连环炮思考](/docs/distributed-system/distributed-system-interview.md)
 ### 系统拆分
 - [为什么要进行系统拆分？如何进行系统拆分？拆分后不用 Dubbo 可以吗？](/docs/distributed-system/why-dubbo.md)
 
